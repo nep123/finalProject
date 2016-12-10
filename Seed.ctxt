@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Seed
+comment0.text=\n\ The\ Farmer\ has\ to\ collect\ enough\ seeds\ in\ order\ for\ his\ fort\n\ to\ have\ enough\ food\n\ \n\ @author\ Nicholas\ Pinckney\n\ @version\ 12-12-16\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ The\ Farmer\ collects\ these\ seeds\n
+numComments=2

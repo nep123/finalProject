@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Farmer
+comment0.text=\n\ A\ Spanish\ Farmer\ is\ trying\ to\ collect\ enough\ seeds\ to\ grow\n\ f\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Farmer()
+comment1.text=\n\ Code\ from\ Dr.\ Canada's\ Greenfoot\ Animation\ Tutorial\n\ https\://uscb.tegrity.com/\#/recording/66e1dae0-0b34-4af2-8324-8bed2c39e2ef?startTime\=0\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Farmer\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\n\ When\ this\ methhod\ is\ called,\ it\ updates\ the\ actors\ object's\ image\n
+comment4.params=
+comment4.target=void\ checkKeyPress()
+comment4.text=\n\ Moves\ the\ farmer\ horizontally\ and\ vertically\n\ Depending\ on\ what\ key\ you\ press\ down\ on,\ the\ image\ of\ the\ \n\ farmer\ changes\n
+comment5.params=
+comment5.target=void\ gatherSeeds()
+comment5.text=\n\ If\ the\ collector\ collects\ 10\ seeds\ without\ dying,\n\ you\ win\ the\ game.\ A\ text\ will\ pop\ up\ when\ the\ amount\ of\ seeds\ \n\ you\ collected\ reaches\ 10\ saying\ "YOU\ WIN\!"\n\ \n\ Code\ from\:\ Introduction\ to\ Programming\ with\ Greenfoot\ \n\ by\ Michael\ Kolling\ pg\ 71\n
+numComments=6

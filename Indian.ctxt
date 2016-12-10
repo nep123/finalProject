@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Indian
+comment0.text=\n\ Write\ a\ description\ of\ class\ Indian\ here.\n\ \n\ @author\ Nicholas\ Pinckney\n\ @version\ 12-12-16\n
+comment1.params=
+comment1.target=Indian()
+comment1.text=\n\ Code\ from\ Dr.\ Canada's\ Greenfoot\ Animation\ Tutorial\n\ https\://uscb.tegrity.com/\#/recording/66e1dae0-0b34-4af2-8324-8bed2c39e2ef?startTime\=0\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Indian\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\n\ When\ this\ methhod\ is\ called,\ it\ updates\ the\ actors\ object's\ image\n
+comment4.params=
+comment4.target=void\ indianDeath()
+numComments=5

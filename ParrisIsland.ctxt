@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ParrisIsland
+comment0.text=\n\ Write\ a\ description\ of\ class\ ParrisIsland\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ParrisIsland()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ParrisIsland.\n\ \n
+comment2.params=
+comment2.target=void\ newWorld()
+comment2.text=\n\ Adds\ characters\ and\ sprites\ to\ the\ world\n\ Code\ for\ spawning\ characters\ was\ taken\ from\n
+comment3.params=
+comment3.target=void\ showText()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ beginGameOver()
+comment5.text=\n\ Switches\ the\ world\ to\ Game\ Over\ screen\n
+numComments=6

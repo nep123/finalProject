@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Fort
+comment0.text=\n\ Write\ a\ description\ of\ class\ Fort\ here.\n\ \n\ @author\ Nicholas\ Pinckney\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Fort\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ powerUp()
+comment2.text=\n\ This\ was\ supposed\ to\ act\ as\ a\ cheat\ of\ sorts,\ where\ if\n\ the\ Farmer\ touches\ the\ fort,\ the\ fort\ will\ clear\ the\ enemies\n
+numComments=3

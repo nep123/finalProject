@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SpriteSheet
+comment0.text=\n\ Helper\ class\ for\ working\ with\ spritesheets\ --\ contains\ four\ overloaded\ versions\ of\ a\ method\ called\ getSprite.\n\ \n\ Minor\ modifications\ made\ from\ original\ version\ (obtained\ from\ Greenfoot\ website)\ by\:\n\ @author\ bcanada\n\ @version\ 2014.11.20\n\n
+comment1.params=spriteSheet\ topLeftX\ topLeftY\ bottomRightX\ bottomRightY\ width\ height
+comment1.target=greenfoot.GreenfootImage\ getSprite(greenfoot.GreenfootImage,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.text=\n\ This\ is\ a\ general\ method\ for\ retrieving\ a\ sprite\ from\ your\ spritesheet\ using\ the\ specified\ coordinates\ \n\ for\ the\ image's\ bounding\ box.\n\ \n\ Note\ that\ you\ switch\ your\ inputs\ for\ topLeftX,\ and\ bottomRightX\ the\ image\ will\ be\ flipped\ horizontilly,\n\ if\ you\ do\ the\ same\ with\ the\ topLeftY\ and\ bottomRightY\ the\ image\ will\ be\ flipped\ vertically.\ The\ width\n\ and\ height\ are\ the\ dimesions\ of\ the\ returned\ image.\n
+comment2.params=spriteSheet\ ID\ spriteCellWidth\ spriteCellHeight\ width\ height
+comment2.target=greenfoot.GreenfootImage\ getSprite(greenfoot.GreenfootImage,\ int,\ int,\ int,\ int,\ int)
+comment2.text=\n\ This\ uses\ an\ ID\ where\ 0\ will\ be\ the\ first\ image\ on\ the\ sheet.\ The\ spriteCellWidth\ and\ spriteCellHeight\ are\n\ the\ dimensions\ of\ each\ individual\ cell\ on\ your\ sprite\ sheet.\ The\ width\ and\ height\ are\ the\ dimesions\n\ of\ the\ returned\ image.\n
+comment3.params=spriteSheet\ ID\ spriteCellWidth\ spriteCellHeight
+comment3.target=greenfoot.GreenfootImage\ getSprite(greenfoot.GreenfootImage,\ int,\ int,\ int)
+comment3.text=\n\ This\ uses\ an\ ID\ where\ 0\ will\ be\ the\ first\ image\ on\ the\ sheet.\ The\ spriteCellWidth\ and\ Height\ are\n\ the\ dimesions\ of\ each\ individual\ cells\ on\ your\ sprite\ sheet.\n
+comment4.params=spriteSheet\ ID\ blockWidth
+comment4.target=greenfoot.GreenfootImage\ getSprite(greenfoot.GreenfootImage,\ int,\ int)
+comment4.text=\n\ This\ uses\ an\ ID\ where\ 0\ will\ be\ the\ first\ image\ on\ the\ sheet.\n\ The\ block\ width\ is\ the\ width\ of\ a\ SQUARE\ block\ on\ the\ sheet,\n\ the\ returned\ image\ will\ also\ be\ a\ SQUARE\ block.\n
+numComments=5

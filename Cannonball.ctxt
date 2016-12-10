@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cannonball
+comment0.text=\n\ If\ the\ Farmer\ comes\ into\ contact\ with\ the\ cannonball,\n\ the\ cannonball\ will\ fire\ in\ a\ straight\ line\ down\ to\ the\ bottom\ of\ the\ world,\n\ a\n\ \n\ @author\ Nicholas\ Pinckney\ \n\ @version\ 12-12-16\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ The\ cannonball\ will\ fire\ down\ in\ a\ straight\ line\n
+comment2.params=
+comment2.target=void\ fireCannon()
+numComments=3

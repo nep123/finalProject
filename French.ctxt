@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=French
+comment0.text=\n\ The\ French\ Soldier\ attacks\ the\ Spanish\ Farmer\ and\ his\ fort\n\ \n\ @author\ Nicholas\ Pinckney\ \n\ @version\ 12-12-16\n
+comment1.params=
+comment1.target=French()
+comment1.text=\n\ These\ are\ the\ animations\ used\ for\ the\ French\ Soldier\n\ Each\ image\ is\ a\ different\ frame\ for\ the\ soldier\n\ \n\ Code\ from\ Dr.\ Canada's\ Greenfoot\ Animation\ Tutorials\n\ https\://uscb.tegrity.com/\#/recording/66e1dae0-0b34-4af2-8324-8bed2c39e2ef?startTime\=0\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ The\ French\ Soldier\ moves\ horizontally\n\ if\ the\ soldier\ reaches\ the\ edge\ of\ the\ screen\ he\n\ will\ flip\ over\ and\ go\ the\ opposite\ direction\n
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\n\ When\ this\ methhod\ is\ called,\ it\ updates\ the\ actors\ object's\ image\n\ Code\ and\ Notes\ from\ Dr.\ Canada's\ Greenfoot\ Animation\ Tutorial\n\ https\://uscb.tegrity.com/\#/recording/66e1dae0-0b34-4af2-8324-8bed2c39e2ef?startTime\=0\n
+comment4.params=
+comment4.target=void\ frenchDeath()
+comment4.text=\n\ If\ the\ French\ soldier\ touches\ the\ Farmer,\ the\ Farmer\ dies\n
+numComments=5
