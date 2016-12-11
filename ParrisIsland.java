@@ -112,7 +112,6 @@ public class ParrisIsland extends World
         {
             beginGameOver();
         }
-    }
-
-
+    } // end beginGameOver
+    
 } // end class ParrisIsland
